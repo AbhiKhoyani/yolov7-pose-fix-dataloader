@@ -35,7 +35,7 @@ for orientation in ExifTags.TAGS.keys():
     if ExifTags.TAGS[orientation] == 'Orientation':
         break
 
-NKPT = 12
+NKPT = 20
 
 
 def get_hash(files):
