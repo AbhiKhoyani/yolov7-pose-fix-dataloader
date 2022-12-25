@@ -4,8 +4,8 @@
 #val: /user/a0132471/Files/bit-bucket/pytorch/jacinto-ai-pytest/data/results/datasets/pytorch_coco_mmdet_img_resize640_val2017_5k_yolov5.txt
 # test: ../coco_kpts/test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
-train: /content/drive/MyDrive/pose output with instance and bbox/YOLO_annotation/train.txt
-val: /content/drive/MyDrive/pose output with instance and bbox/YOLO_annotation/train.txt
+train: /content/drive/MyDrive/pose_output_with_instance_and_bbox/images/
+val: /content/drive/MyDrive/pose_output_with_instance_and_bbox/images/
 
 # number of classes   #file with pickup truck: vlcsnap-2022-09-22-15h21m41s270.txt
 nc: 1
